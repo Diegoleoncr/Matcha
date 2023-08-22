@@ -1,0 +1,16 @@
+
+.Container{
+display: flex;
+background: aquamarine;
+height: 500px;
+margin-top: 500px;
+}
+
+.Container > div {
+
+    height: 50px;
+    width: 50px;
+    background: black;
+    color: aliceblue;
+
+}
