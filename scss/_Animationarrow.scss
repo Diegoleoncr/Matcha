@@ -38,4 +38,29 @@ to {
     left: 270px;
 }
 }
+
+@keyframes up-and-down {
+    0% {
+        top: 0;
+
+    } 
+
+    25% {
+
+        top: -30px;
+    }
+ 
+    50% {
+
+        top: -60px;
+    }
+
+    75% {
+    top: -30px;
+    }
+
+    100% {
+        top: 0;
+    }
+}
 }
