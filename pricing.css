@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+/** pricing.css */
+>>>>>>> fab8b1d (Final)
 @import url("https://fonts.googleapis.com/css?family=Alegreya:900%7COpen+Sans%7CSlabo+27px&display=swap");
 
 * {
@@ -78,6 +82,7 @@ body {
     padding-bottom: 12px;
     border: 0;
     border-radius: 5px;
+<<<<<<< HEAD
 }
 
 .faq {
@@ -106,3 +111,6 @@ body {
   }
 
   
+=======
+}
+>>>>>>> fab8b1d (Final)
